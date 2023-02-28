@@ -16,7 +16,9 @@ app.use(
   //{useTempFiles: true,}
 );
 app.use(morgan("combined"));
-
+app.get("/", (req, res) => {
+  res.json({ msg: "Hello" });
+});
 app.post("/", (req, res) => {
   console.log(req.files);
   const file = req.files.file;
