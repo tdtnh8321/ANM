@@ -16,7 +16,7 @@ app.use(
   //{useTempFiles: true,}
 );
 app.use(morgan("combined"));
-app.get("/", (req, res) => {
+app.get("/home", (req, res) => {
   res.json({ msg: "Hello" });
 });
 app.post("/", (req, res) => {
@@ -25,7 +25,7 @@ app.post("/", (req, res) => {
   const filename = file.name;
   console.log(filename);
   file.mv("./upload/" + filename, (err) => {
-    if (err) res.send(err);
+    if (err) res.send("msg: loi file", err);
     else res.send("success");
   });
 });
