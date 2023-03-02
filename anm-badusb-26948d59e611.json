@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anm-badusb",
+  "private_key_id": "26948d59e61106d06db524e8fe3bfc08cd61c408",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMVx91I4b1Lj33\nNzNaIlKLbwNg7JaD7f12oWL+tG5+kM+RYhB2eSeAhiUIEV5ToB0CW9O0KTmCtDX3\n1lJxbFriR7adLJcL7mYJwzEdzTdc7E0bCJqyzvDrYrS/0cs6Cn/6yBBWT+6Ye6Hy\nCm9De5JgmH26Ie/ZSnHPc6AXQOSi+HQ/5NzCodIiqbpgp1avRTxWXBPhFrsrB0f6\nPZp0f3Rs+BmnyLJoS7Qnw61u9tFKtUrc1QiGSfUxzOUHdccyI6FjcLGZlEWn1HpO\nHsjTV+fjrGm46hTAyNudBvM7KVUUpQDNmQCMCu0OvhKxq85gpWL4df5A+ehh9+xY\nf2KfvpkBAgMBAAECggEALtUL6mizUmef/5QY8qA5q2fMzi7DG2cU55a67dXUGjFd\nxTwEumZvkYMNIzF53TAt3d/GYDzvh59+W/g0qnazSLe3aIPy9WLU44lnLSWeue8V\nh+vbqr4HlOcpNmpiicGkzckDB4knza5OMj9Ge2CrrnRcomeLRVGMzoc5SoMOs7PV\nOEgP7NWgE/vUKvRKOqwaY3rRAfJGNSIUq1YpFac7Ht/tl2eVntozSeX/oFY0A62g\njQmXm1wUYDeSQIbO84C+A2p9M25at0XkjKn8H5T46O3MzoIvsrDt1L/zZ+QeumgN\nEvGGws0VuxgKmHToEu5Uh4fcAJNQXFTAqJXwT/XtDQKBgQD1ByIfDItiEermomFW\nPvPnlxRaPKOM67jdD+8Vp9BgQ6FqhBq+AwuNDcJ04KC/bLuFhBnrHk/2B2j0gbF5\nLJsg91KNLOqwKe1LNud63jTkqDO+bMSwFVZOpXDkMBSfRUx1SUa4BUNQEyzQ+saV\ntYlFOfp0WsNAKmT2xL4dlrUoTQKBgQDVfZHVxBI0MpzddAyNjWa7ilOISbnak8ls\n0kCjViCJuPo7PKDgo4OeHrmoj6skOIsSm2HIRzYRPm0VgFd1yI5k63E9q/dFTJo4\n2fpDFAxObSVSVkqaw5z6/3j6yQt4crRfTkQIBOjhw3nyPoDTPo5fj36/H5tdag0a\nU3gI6UfNhQKBgEF/4agpI01Y+tEiUSDL/UlIQqGImjO+g5FchA3m6TYCfjDKFZf7\nmmffaL7zmSTyvQII+SC33qom+vB5huacfO+IDaI9gpMK8irsB1757Wu+Zu6dhsqH\nOaYWZaIqFCkrTjAAIY5pob/TEGTg1JsKhyJhSEk4Rf9uFcU9fJDOS6j1AoGBAIUo\nvkaT9jrCet8R3CaKVNKS08lFGvw/g7oxZgm61a6xRrqd9UZIFvcP+QMvITMFZZEk\ng5f0+r9EratkkqivgEloJQivcxqxTdw58YPXRFnCcC3sDrp7WjWgFShvL41gFir/\n2SUbUtpGH5C99YJNGWZ3TToOj8xzMlsCRvNf9d41AoGAe+gLCn+4+AwtyGD7gh84\n2sF8FgyQlXAiXLgT3pB6ihBnqLXLT1a7sSNJVh2kvIITE4Opx9hS47ow+b/N+PyG\nDNdJup56Hn5vLm7Og5pWF+2O9UHBPi34/WLre7rpilRBJlFgsEwRHpi4X1SmpV7W\nw2uzD/6EwbeTFh8rROrqXD8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload-file@anm-badusb.iam.gserviceaccount.com",
+  "client_id": "105196356590429382771",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-file%40anm-badusb.iam.gserviceaccount.com"
+}
