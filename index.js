@@ -23,7 +23,7 @@ app.use(cors());
 // );
 app.use(morgan("combined"));
 
-app.get("/home", (req, res) => {
+app.get("/", (req, res) => {
   res.json({ msg: "Hello" });
 });
 app.post("/", upload.single("file"), async (req, res) => {
