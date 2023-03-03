@@ -6,7 +6,7 @@ const morgan = require("morgan");
 const { google } = require("googleapis");
 const { uploadFile } = require("./upload.js");
 const multer = require("multer");
-const upload = multer({ dest: "uploads/" });
+const upload = multer({ dest: "upload/" });
 const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
